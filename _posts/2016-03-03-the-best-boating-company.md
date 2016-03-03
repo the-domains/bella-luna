@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T00:56:16.040Z'
-dateModified: '2016-03-03T00:55:46.916Z'
+datePublished: '2016-03-03T01:08:21.817Z'
+dateModified: '2016-03-03T00:56:23.977Z'
 title: 'the best boating company '
 author: []
 sourcePath: _posts/2016-03-03-the-best-boating-company.md
