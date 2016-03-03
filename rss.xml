@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bella luna]]></title>
+        <description><![CDATA[bella luna]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 00:58:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the best boating company ]]></title>
+            <description><![CDATA[<article><h1>the best boating company </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f31a716-458c-4bbc-94a9-5eefff976deb.jpg"></article>]]></description>
+            <link>undefinedthe-best-boating-company/index.html</link>
+            <guid isPermaLink="false">2373ef51-ef3e-41d0-a391-624b910f5c57</guid>
+            <pubDate>Thu, 03 Mar 2016 00:55:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
