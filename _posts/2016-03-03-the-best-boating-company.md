@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T00:55:21.316Z'
-dateModified: '2016-03-03T00:55:02.266Z'
+datePublished: '2016-03-03T00:56:16.040Z'
+dateModified: '2016-03-03T00:55:46.916Z'
 title: 'the best boating company '
+author: []
+sourcePath: _posts/2016-03-03-the-best-boating-company.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-03-the-best-boating-company.md
-published: true
 url: the-best-boating-company/index.html
 _type: Article
 
