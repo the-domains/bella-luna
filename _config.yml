@@ -1,0 +1,28 @@
+name: bella luna
+favicon: null
+layout_spectrum: 0.37390852253884077
+typography_spectrum: 0.5195826424751431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.33526570186950266
+  lightness: 0.18373777880333364
+  saturation: 0.4114927507471293
+  rhythmicContrast: 0.09406694094650447
+purpose: []
